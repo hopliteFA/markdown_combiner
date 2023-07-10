@@ -1,5 +1,4 @@
 
-#imports
 
 def append_file(input_name, output_file):
     content = ''
